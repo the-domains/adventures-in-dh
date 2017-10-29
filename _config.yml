@@ -1,0 +1,60 @@
+typography_spectrum: 0.4807216602628405
+color:
+  brandStrength: 0.08603160460820736
+  lightness: 0.7781402712759774
+  saturation: 0.7462406374934581
+  rhythmicContrast: 0.42878436693755706
+  brandColors:
+    - '#D9D6D1'
+    - '#FFFFFF'
+    - '#284660'
+    - '#60727C'
+    - '#070908'
+layout_spectrum: 0.44662953732535243
+name: Adventures in DH
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+title: Adventures in DH
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83bd6447-2c0f-4af3-a4ca-b47a335a1fcd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/83bd6447-2c0f-4af3-a4ca-b47a335a1fcd.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: My adventures into Digital Humanities... so far.
+purpose:
+  - type: contact
+    url: 'mailto:alvaro@workisplay.com'
+    label: Get in touch
+  - type: external
+    url: 'https://github.com/thatVargas'
+    label: Me on GitHub
+github: true
+author:
+  name: Álvaro Vargas
+  email: alvaro@workisplay.com
+  url: 'http://workisplay.com'
