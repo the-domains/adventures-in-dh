@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   I will say this, I tried. After many frustrating hours trying to get my Open
   Notebook with Jekyll to work on GitHub, I began to appreciate the nuance of
   the name. It was one of the most frustrating experiences I’d had in a long
   time.
-dateModified: '2017-10-30T01:04:30.013Z'
-datePublished: '2017-10-30T01:04:30.435Z'
+dateModified: '2017-10-30T01:05:54.321Z'
+datePublished: '2017-10-30T01:05:54.801Z'
 title: More Hyde than Jekyll.
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-29T13:23:14.490Z'
 url: more-hyde-than-jekyll/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # More Hyde than Jekyll.
