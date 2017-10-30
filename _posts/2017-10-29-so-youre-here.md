@@ -4,8 +4,8 @@ description: >-
   Welcome. This will be a growing repository of content as I go through my
   journey into the Digital Humanities. My end goal is to use what I learn to
   create more meaningful user experiences.
-dateModified: '2017-10-30T01:01:12.023Z'
-datePublished: '2017-10-30T01:01:12.929Z'
+dateModified: '2017-10-30T19:19:18.744Z'
+datePublished: '2017-10-30T19:19:19.122Z'
 title: 'So, you’re here.'
 author: []
 publisher: {}
@@ -27,4 +27,4 @@ Welcome. This will be a growing repository of content as I go through my journey
 * [Finding meaning, making meaning with text analysis][1]
 
 [0]: https://thegrid.ai/adventures-in-dh/more-hyde-than-jekyll "This is a rebellion, not a revolution."
-[1]: https://thegrid.ai/adventures-in-dh/finding-meaning-making-meaning/
+[1]: https://thegrid.ai/adventures-in-dh/finding-meaning-making-meaning-with-text-analysis
