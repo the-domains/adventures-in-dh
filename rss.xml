@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adventures in DH]]></title>
+        <description><![CDATA[Adventures in DH]]></description>
+        <link>https://thegrid.ai/adventures-in-dh/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Oct 2017 01:04:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adventures-in-dh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[More Hyde than Jekyll.]]></title>
+            <description><![CDATA[<h1>More Hyde than Jekyll.</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32b1a51c-d902-434e-a02e-745ad2d653ea.jpg" alt="Nothing is future-proof">,<p>I will say this, I tried. After many frustrating hours trying to get my Open Notebook with Jekyll to work on GitHub, I began to appreciate the nuance of the name. It was one of the most frustrating experiences I’d had in a long time.</p>,<p>The designer in me did not want to have a simple site that would just scroll endlessly. I also hated (and I do not use this word lightly) the fact that I could just not get the damn thing to do what I wanted it to do. As my thoughts began turning to Mr. Hyde, I recalled a lesson from my past.</p>,<p>There was point in my career at which I started to feel very unfocused. It was around 1999, and I had spent the better part of a year playing catch-up with the latest changes to HTML, trying to learn some Java, Javascript, LINGO, Flash, not to mention new features in adobe photoshop, illustrator and QuarkXpress. This was also the point in my career in which I saw that user experience (UX), although in its nascent stages, was going to be the future.</p>,<p>It was at this point that I made a conscious decision to excel at certain things, and stay aware of others. This was the lesson that I harkened back to. I am currently doing my masters degree in anthropology with a specialization in digital humanities, not to become a programmer, or to code, or to do any of those things. I am doing it to continue my journey of pulling back the curtain on culture, understand how others navigate the world, and translate that into designing better experiences with the information, products, and services that we come into contact with every day.</p>,<p>I will and do stay aware of this kind of technology, and am supportive of open source. However, I don’t believe anything is truly future-proof.</p>,<p>So, please, don’t take this as a revolt against best efforts to be exposed to something new. I was exposed to it, and I appreciate what it does, and that it has a place and a context. I just fundamentally do not believe that the tool is appropriate for me to do what I need to do, which is engaging with ideas, learning from them, and maybe even putting out some of my own.</p>,<p>This time, it’s about content, not context.</p>]]></description>
+            <link>https://thegrid.ai/adventures-in-dh/more-hyde-than-jekyll/index.html</link>
+            <guid isPermaLink="false">1ae24ba5-8c8f-410d-bd17-32c64b60df47</guid>
+            <pubDate>Sun, 29 Oct 2017 13:23:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
