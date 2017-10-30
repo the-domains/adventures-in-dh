@@ -6,9 +6,9 @@ description: >-
   we all belong to different webs of meaning that we are part of constructing
   and upholding. Text analysis is like looking for those webs in individual or
   corpuses (sp?) of text. 
-dateModified: '2017-10-30T00:58:50.698Z'
-datePublished: '2017-10-30T00:58:51.077Z'
-title: 'Finding meaning, making meaning'
+dateModified: '2017-10-30T00:59:29.473Z'
+datePublished: '2017-10-30T00:59:29.911Z'
+title: 'Finding meaning, making meaning with text analysis.'
 author: []
 publisher: {}
 via: {}
@@ -20,7 +20,7 @@ url: finding-meaning-making-meaning/index.html
 _type: MediaObject
 
 ---
-# Finding meaning, making meaning
+# Finding meaning, making meaning with text analysis.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdd9eace-0f62-4fea-b10a-11b60234ba87.jpg)
 
 In anthropology we often speak of the notion of webs of significance or webs of meaning. In essence, an mostly according to anthropologist Clifford Geertz, we all belong to different webs of meaning that we are part of constructing and upholding. Text analysis is like looking for those webs in individual or corpuses (sp?) of text. 
