@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, design, patterns, and
   tools.
-dateModified: '2017-11-12T18:10:26.751Z'
-datePublished: '2017-11-12T18:10:27.214Z'
+dateModified: '2017-11-12T18:14:11.569Z'
+datePublished: '2017-11-12T18:14:12.317Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -26,9 +26,9 @@ In a kind of meta way, the [readings on visualization][0] lead to an emergence o
 
 ## Definition(s)
 
-Perhaps one of my favourite definitions was from Lev Manovich in "What is Visualization" where she defines it as,
+Perhaps one of my favourite definitions was from Lev Manovich in "What is Visualization" where she writes,
 
-> "a mapping between discrete data and a visual representation."
+> "Let's define information visualization as a mapping between discrete data and a visual representation."(p.23)
 
 
 
