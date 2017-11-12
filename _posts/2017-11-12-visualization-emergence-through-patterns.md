@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, design, patterns, and
   tools.
-dateModified: '2017-11-12T19:34:35.251Z'
-datePublished: '2017-11-12T19:34:35.749Z'
+dateModified: '2017-11-12T19:50:48.622Z'
+datePublished: '2017-11-12T19:50:49.161Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -36,12 +36,16 @@ Going beyond the short to a more fulsome definition, there are a few more concep
 
 The beauty of a good visualization lies in its ability to allow one to look for (and see) patterns within them. Whether it's [Mainard's Napoleon Map][3], or [Manovich's Equalogram Project][4], I find this to be the essence of visualization in practice. It's about allowing for the emergence of patterns that allow you to see connections between things that may not intuitively exist, yet once you see them they become obvious. It's a way of making the strange, familiar.
 
+In my work with user experience (UX) design, visualizations such as [chord diagrams][5], [pietree diagrams][6], etc., tell us the _what_ which inform our research into the _how_ and the _why_. To expand on that a bit, the "how" informs in terms of how a user arrived at a certain conclusion about a choice for an interaction, while the "why" informs in terms of why a user chose one things versus another when trying to complete a task. In our analysis we look for correlative patterns, and the connections between interesting data points to look for insights that will ultimately inform further iterations in the design of a product and/or service.
+
 ## Design
 
-Visualizations from texts can be useful given that they may uncover different aspects of a narrative that may be less obvious to In my work with user experience (UX) design, this type of visualization tells us the "what", which gives us, as researchers, direction to explore the "how" and the "why" of certain patterns, and the connections between them.
+Visualizations from texts can be useful given that they may uncover different aspects of a narrative that may be less obvious to 
 
 [0]: https://dhcu.ca/portfolio/visualization/ "List of readings from DHCU.ca"
 [1]: http://www.themacroscope.org/?page_id=469 "from "Principles of Information Visualization""
 [2]: https://www.edwardtufte.com/tufte/index "After you're done here, you should check out his site."
 [3]: https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Minard.png
 [4]: http://inequaligram.net/
+[5]: https://datavizcatalogue.com/methods/chord_diagram.html
+[6]: https://support.optimalworkshop.com/hc/en-us/articles/202725470-Interpret-the-Pietree-in-Treejack
