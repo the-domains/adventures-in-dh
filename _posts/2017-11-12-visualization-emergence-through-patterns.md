@@ -3,10 +3,10 @@ inFeed: false
 description: >-
   In a kind of meta way, the readings on visualization lead to an emergence of
   their own, whose corpus (if I can appropriate the term to mean their
-  aggregate) revealed a structure based on definition, design, patterns, and
-  tools.
-dateModified: '2017-11-12T20:04:33.346Z'
-datePublished: '2017-11-12T20:04:33.871Z'
+  aggregate) revealed a structure based on definition, patterns and emergence,
+  and design and tools.
+dateModified: '2017-11-12T20:05:37.469Z'
+datePublished: '2017-11-12T20:05:37.956Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: MediaObject
 # Visualization - emergence through patterns
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b44b6317-225c-43e4-a0cd-5448ec408006.jpg)
 
-In a kind of meta way, the [readings on visualization][0] lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on definition, design, patterns, and tools.
+In a kind of meta way, the [readings on visualization][0] lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on definition, patterns and emergence, and design and tools.
 
 ## Definition(s)
 
