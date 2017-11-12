@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:49:38.609Z'
-datePublished: '2017-11-12T20:49:39.195Z'
+dateModified: '2017-11-12T20:58:37.443Z'
+datePublished: '2017-11-12T20:58:37.915Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -34,7 +34,7 @@ Going beyond the short to a more fulsome definition, there are a few more concep
 
 ## Patterns and emergence
 
-The beauty of a good visualization lies in its ability to allow one to look for (and see) patterns within them. Whether it's [Mainard's Napoleon Map][3], or [Manovich's Equalogram Project][4], I find this to be the essence of visualization in practice. It's about allowing for the emergence of patterns that allow you to see connections between things that may not intuitively exist, yet once you see them they become obvious. It's a way of making the strange, familiar through a kind of "[distant reading][5]" that enables pattern finding and aligning to things we have seen before, as starting points to further exploration.
+The beauty of a good visualization lies in its ability to allow one to look for (and see) patterns within them. Whether it's [Mainard's Napoleon Map][3], or [Manovich's Inequaligram Project][4], I find this to be the essence of visualization in practice. It's about allowing for the emergence of patterns that allow you to see connections between things that may not intuitively exist, yet once you see them they become obvious. It's a way of making the strange, familiar through a kind of "[distant reading][5]" that enables pattern finding and aligning to things we have seen before, as starting points to further exploration.
 
 In my work with user experience (UX) design, visualizations such as [chord diagrams][6], [pietree diagrams][7], etc., tell us the _what_ which inform our research into the _how_ and the _why_. To expand on that a bit, the "how" informs in terms of how a user arrived at a certain conclusion about a choice for an interaction, while the "why" informs in terms of why a user chose one things versus another when trying to complete a task. In our analysis we look for correlative patterns, and the connections between interesting data points to look for insights that will ultimately inform further iterations in the design of a product and/or service.
 
@@ -55,7 +55,9 @@ In "[Principles of Information Visualization][9]" we are presented with a useful
 
 To which I would add, _KNOW YOUR AUDIENCE_! This last one is very important since it should guide the other four in making sure that your visualization maintains a high level of relevance.
 
-Visualization will come in all shapes and sizes, and with them will come a variety of tools to help you design them. A simple [google search for data visualization tools][10] will return millions of results, so I won't go into specific tool, as they are typically made for more specific uses. But in a slightly different tack, there have been some very interesting projects coming out of the [Cultural Analytics Lab][11] in California and NYC under the banner of cultural analytics. The tools that a
+Visualization will come in all shapes and sizes, and with them will come a variety of tools to help you design them. A simple [google search for data visualization tools][10] will return millions of results, so I won't go into specific tool, as they are typically made for more specific uses. But in a slightly different tack, there have been some very interesting projects coming out of the [Cultural Analytics Lab][11] in California and NYC under the banner of cultural analytics. The tools that, as my colleague Victoria pointed out, enable us to even begin asking the more interesting questions, are the ones that begin to peel back the layers of the effects of digital on culture writ large. 
+
+I had previously made reference to the [Inequaligram Project][4] which is a great example of something that visualizes data in a certain knowledge domain (in this case instagram use in NYC), and leaves us wanting to keep scratching away at the edges of this research to reveal more, both in terms of what it is saying about us and what else this kind of data might be meaningfully connected to.
 
 In "[Principles of data visualization][9]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
 
