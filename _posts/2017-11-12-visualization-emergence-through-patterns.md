@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:15:39.783Z'
-datePublished: '2017-11-12T20:15:40.190Z'
+dateModified: '2017-11-12T20:32:54.655Z'
+datePublished: '2017-11-12T20:32:55.148Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -38,9 +38,22 @@ The beauty of a good visualization lies in its ability to allow one to look for 
 
 In my work with user experience (UX) design, visualizations such as [chord diagrams][6], [pietree diagrams][7], etc., tell us the _what_ which inform our research into the _how_ and the _why_. To expand on that a bit, the "how" informs in terms of how a user arrived at a certain conclusion about a choice for an interaction, while the "why" informs in terms of why a user chose one things versus another when trying to complete a task. In our analysis we look for correlative patterns, and the connections between interesting data points to look for insights that will ultimately inform further iterations in the design of a product and/or service.
 
+The use of this type of methodology gives us traceability to design decisions, which can ultimately help us when we need to justify a design decision.
+
 ## Design and tools
 
-In "[Principles of data visualization][8]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
+To pick up from the previous section, when we use "data as evidence", as [written by Trevor Owens][8], with visualizations, we need to find ways of presenting it to make it defensible "against alternative explanations". However, what's interesting here is that it is also dependant on the complexity of the full data set that you are dealing with vs. the subset that you are using for your visualization. But this can also cause analysis paralysis. So, at some point I think you just have to state your assumptions and say "based on that and this data, I interpret it as this" and then support that with other similar interpretations that support your argument. A lot of science, after all, is about consensus. Just look at what's happened to poor Pluto in the last 25 years.
+
+But I digress. While the technology may enable us to have a higher resolution of what we are looking at, we still need to make sure that we don't get lost in the technology at the expense of the "science" behind what we are trying to show. I.e., we should not let go of the rigour behind creating visualizations, simply because we can create them more easily or iterate through them faster. The point is that it is a fine line between creating art that works versus works of art. The latter is largely for its own sake, whereas the former is in support of something else.
+
+In "[Principles of Information Visualization][9]" we are presented with a useful checklist for good visualizations:
+
+1. Pick your data
+2. Pick your visualization type
+3. Pick your graphic variables
+4. Follow basic design principles (paragraph 124)
+
+In "[Principles of data visualization][9]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
 
 > "In a public world that values quantification so highly, visualizations may lend an air of legitimacy to a piece of research which it may or may not deserve. We will not comment on the ethical implications of such visualizations, but we do note that such visualizations are increasingly common and seem to play a role in successfully passing peer review, receiving funding, or catching the public eye." (Paragraph 18)
 
@@ -56,4 +69,5 @@ Our task, as designers of visualizations in support of content, is to make sure 
 [5]: http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html
 [6]: https://datavizcatalogue.com/methods/chord_diagram.html
 [7]: https://support.optimalworkshop.com/hc/en-us/articles/202725470-Interpret-the-Pietree-in-Treejack
-[8]: http://www.themacroscope.org/?page_id=469
+[8]: http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/ "in "Discovery and Justification are Different: Notes on Science-ing the Humanities""
+[9]: http://www.themacroscope.org/?page_id=469
