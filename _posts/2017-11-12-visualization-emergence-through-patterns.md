@@ -5,11 +5,13 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T21:01:57.964Z'
-datePublished: '2017-11-12T21:01:58.507Z'
+dateModified: '2017-11-12T21:03:33.120Z'
+datePublished: '2017-11-12T21:03:33.759Z'
 title: Visualization - emergence through patterns
 author: []
-publisher: {}
+publisher:
+  url: 'http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg'
+  name: The Graphic Recorder
 via: {}
 sourcePath: _posts/2017-11-12-visualization-emergence-through-patterns.md
 hasPage: true
@@ -55,7 +57,7 @@ In "[Principles of Information Visualization][9]" we are presented with a useful
 
 To which I would add, _KNOW YOUR AUDIENCE_! This last one is very important since it should guide the other four in making sure that your visualization maintains a high level of relevance.
 
-Visualization will come in all shapes and sizes, and with them will come a variety of tools to help you design them. A simple [google search for data visualization tools][10] will return millions of results, so I won't go into specific tool, as they are typically made for more specific uses. But in a slightly different tack, there have been some very interesting projects coming out of the [Cultural Analytics Lab][11] in California and NYC under the banner of cultural analytics. The tools that, as my colleague Victoria pointed out, enable us to even begin asking the more interesting questions, are the ones that begin to peel back the layers of the effects of digital on culture writ large. 
+Visualization will come in all shapes and sizes, and with them will come a variety of tools to help you design them. A simple [google search for data visualization tools][10] will return millions of results, so I won't go into specific tool, as they are typically made for more specific uses. But in a slightly different tack, there have been some very interesting projects coming out of the [Cultural Analytics Lab][11] in California and NYC under the banner of cultural analytics. The tools that, as my colleague Victoria pointed out, enable us to even begin asking the more interesting questions, are the ones that begin to peel back the layers of the effects of digital on culture writ large.
 
 I had previously made reference to the [Inequaligram Project][4] which is a great example of something that visualizes data in a certain knowledge domain (in this case instagram use in NYC), and leaves us wanting to keep scratching away at the edges of this research to reveal more, both in terms of what it is saying about us and what else this kind of data might be meaningfully connected to.
 
@@ -69,7 +71,7 @@ Our task, as designers of visualizations in support of content, is to make sure 
 
 ## So...
 
-There is actually no super way of concluding this. Looking at it from the culture lens, visualizations are a great way to find the nuances in our research, especially when there is an increasing amount of open data out there that we can play with. 
+There is actually no super way of concluding this. Looking at it from the culture lens, visualizations are a great way to find the nuances in our research, especially when there is an increasing amount of open data out there that we can play with.
 
 As for me, I will continue to scratch away at the edges, and following Alice down rabbit holes, albeit with a good cognitive compass to remind me of why I am looking at this versus that and not that versus something else.
 
