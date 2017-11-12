@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:35:44.918Z'
-datePublished: '2017-11-12T20:35:45.580Z'
+dateModified: '2017-11-12T20:37:41.647Z'
+datePublished: '2017-11-12T20:37:42.308Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -52,6 +52,8 @@ In "[Principles of Information Visualization][9]" we are presented with a useful
 2. Pick your visualization type
 3. Pick your graphic variables
 4. Follow basic design principles (paragraph 124)
+
+To which I would add, _KNOW YOUR AUDIENCE_! This last one is very important since it should guide the other four in making sure that your visualization maintains a high level of relevance.
 
 In "[Principles of data visualization][9]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
 
