@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, design, patterns, and
   tools.
-dateModified: '2017-11-12T18:36:16.892Z'
-datePublished: '2017-11-12T18:36:17.340Z'
+dateModified: '2017-11-12T18:38:34.989Z'
+datePublished: '2017-11-12T18:38:35.416Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: MediaObject
 
 In a kind of meta way, the [readings on visualization][0] lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on definition, design, patterns, and tools.
 
-## Definition(s)
+### Definition(s)
 
 Perhaps one of my favourite short definitions was from Lev Manovich in "What is Visualization" where she writes,
 
