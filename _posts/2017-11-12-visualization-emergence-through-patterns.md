@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, design, patterns, and
   tools.
-dateModified: '2017-11-12T19:50:48.622Z'
-datePublished: '2017-11-12T19:50:49.161Z'
+dateModified: '2017-11-12T19:59:20.560Z'
+datePublished: '2017-11-12T19:59:21.313Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -40,7 +40,11 @@ In my work with user experience (UX) design, visualizations such as [chord diagr
 
 ## Design
 
-Visualizations from texts can be useful given that they may uncover different aspects of a narrative that may be less obvious to 
+In "[Principles of data visualization][7]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
+
+> "In a public world that values quantification so highly, visualizations may lend an air of legitimacy to a piece of research which it may or may not deserve. We will not comment on the ethical implications of such visualizations, but we do note that such visualizations are increasingly common and seem to play a role in successfully passing peer review, receiving funding, or catching the public eye." (Paragraph 18)
+
+I am curious as to whether the current trend towards eschewing long-form content in favour of shorter pieces has helped with this rise in popularity and effectiveness for visualizations to aid in convincing audiences of a certain point of view, given that they display things in more easily recognizable patterns, which then allow audiences to engage with the accompanying content with a bias towards what they feel they already know from looking at the visualization? In this way, the danger is that it can become rather circular, in that the content supports the visualization, which supports the content, and so on.
 
 [0]: https://dhcu.ca/portfolio/visualization/ "List of readings from DHCU.ca"
 [1]: http://www.themacroscope.org/?page_id=469 "from "Principles of Information Visualization""
@@ -49,3 +53,4 @@ Visualizations from texts can be useful given that they may uncover different as
 [4]: http://inequaligram.net/
 [5]: https://datavizcatalogue.com/methods/chord_diagram.html
 [6]: https://support.optimalworkshop.com/hc/en-us/articles/202725470-Interpret-the-Pietree-in-Treejack
+[7]: http://www.themacroscope.org/?page_id=469
