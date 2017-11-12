@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:37:41.647Z'
-datePublished: '2017-11-12T20:37:42.308Z'
+dateModified: '2017-11-12T20:49:38.609Z'
+datePublished: '2017-11-12T20:49:39.195Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -55,6 +55,8 @@ In "[Principles of Information Visualization][9]" we are presented with a useful
 
 To which I would add, _KNOW YOUR AUDIENCE_! This last one is very important since it should guide the other four in making sure that your visualization maintains a high level of relevance.
 
+Visualization will come in all shapes and sizes, and with them will come a variety of tools to help you design them. A simple [google search for data visualization tools][10] will return millions of results, so I won't go into specific tool, as they are typically made for more specific uses. But in a slightly different tack, there have been some very interesting projects coming out of the [Cultural Analytics Lab][11] in California and NYC under the banner of cultural analytics. The tools that a
+
 In "[Principles of data visualization][9]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
 
 > "In a public world that values quantification so highly, visualizations may lend an air of legitimacy to a piece of research which it may or may not deserve. We will not comment on the ethical implications of such visualizations, but we do note that such visualizations are increasingly common and seem to play a role in successfully passing peer review, receiving funding, or catching the public eye." (Paragraph 18)
@@ -73,3 +75,5 @@ Our task, as designers of visualizations in support of content, is to make sure 
 [7]: https://support.optimalworkshop.com/hc/en-us/articles/202725470-Interpret-the-Pietree-in-Treejack
 [8]: http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/ "in "Discovery and Justification are Different: Notes on Science-ing the Humanities""
 [9]: http://www.themacroscope.org/?page_id=469
+[10]: https://www.google.ca/search?q=data+visualization+tools&rlz=1C5CHFA_enCA714CA715&oq=data+visualization+tools&aqs=chrome..69i57j0l5.4462j0j1&sourceid=chrome&ie=UTF-8
+[11]: http://lab.culturalanalytics.info/p/projects.html
