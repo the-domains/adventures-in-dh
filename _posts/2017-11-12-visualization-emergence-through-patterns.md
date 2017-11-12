@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:58:37.443Z'
-datePublished: '2017-11-12T20:58:37.915Z'
+dateModified: '2017-11-12T21:01:57.964Z'
+datePublished: '2017-11-12T21:01:58.507Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -66,6 +66,12 @@ In "[Principles of data visualization][9]", the issue is raised about the uses o
 I am curious as to whether the current trend towards eschewing long-form content in favour of shorter pieces has helped with this rise in popularity and effectiveness for visualizations to aid in convincing audiences of a certain point of view, given that they display things in more easily recognizable patterns? In this way, it may allow audiences to engage with the accompanying content with a bias towards what they feel they already know from looking at the visualization. The danger is that these arguments can become rather circular, in that the content supports the visualization, which supports the content, and so on.
 
 Our task, as designers of visualizations in support of content, is to make sure that we are not leaving room for misrepresentation of the data without gaining the fuller context of the text that accompanies and supports it.
+
+## So...
+
+There is actually no super way of concluding this. Looking at it from the culture lens, visualizations are a great way to find the nuances in our research, especially when there is an increasing amount of open data out there that we can play with. 
+
+As for me, I will continue to scratch away at the edges, and following Alice down rabbit holes, albeit with a good cognitive compass to remind me of why I am looking at this versus that and not that versus something else.
 
 [0]: https://dhcu.ca/portfolio/visualization/ "List of readings from DHCU.ca"
 [1]: http://www.themacroscope.org/?page_id=469 "from "Principles of Information Visualization""
