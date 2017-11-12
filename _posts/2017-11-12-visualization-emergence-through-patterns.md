@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-11-12T17:52:47.984Z'
-datePublished: '2017-11-12T17:52:48.382Z'
+dateModified: '2017-11-12T17:53:35.544Z'
+datePublished: '2017-11-12T17:53:36.187Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-12T17:52:05.538Z'
 url: visualization-emergence-through-patterns/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Visualization - emergence through patterns
