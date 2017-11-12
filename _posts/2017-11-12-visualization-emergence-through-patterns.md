@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T17:52:39.238Z'
-datePublished: '2017-11-12T17:52:39.867Z'
+dateModified: '2017-11-12T17:52:47.984Z'
+datePublished: '2017-11-12T17:52:48.382Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: 'http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg'
 sourcePath: _posts/2017-11-12-visualization-emergence-through-patterns.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-12T17:52:05.538Z'
-_type: MediaObject
+url: visualization-emergence-through-patterns/index.html
+_type: Article
 
 ---
 # Visualization - emergence through patterns
