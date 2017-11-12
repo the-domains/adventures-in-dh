@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:11:43.976Z'
-datePublished: '2017-11-12T20:11:44.590Z'
+dateModified: '2017-11-12T20:12:24.910Z'
+datePublished: '2017-11-12T20:12:25.399Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -38,7 +38,7 @@ The beauty of a good visualization lies in its ability to allow one to look for 
 
 In my work with user experience (UX) design, visualizations such as [chord diagrams][5], [pietree diagrams][6], etc., tell us the _what_ which inform our research into the _how_ and the _why_. To expand on that a bit, the "how" informs in terms of how a user arrived at a certain conclusion about a choice for an interaction, while the "why" informs in terms of why a user chose one things versus another when trying to complete a task. In our analysis we look for correlative patterns, and the connections between interesting data points to look for insights that will ultimately inform further iterations in the design of a product and/or service.
 
-## Design
+## Design and tools
 
 In "[Principles of data visualization][7]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
 
