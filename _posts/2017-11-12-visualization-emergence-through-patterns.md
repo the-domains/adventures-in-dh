@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:05:37.469Z'
-datePublished: '2017-11-12T20:05:37.956Z'
+dateModified: '2017-11-12T20:11:43.976Z'
+datePublished: '2017-11-12T20:11:44.590Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -44,7 +44,9 @@ In "[Principles of data visualization][7]", the issue is raised about the uses o
 
 > "In a public world that values quantification so highly, visualizations may lend an air of legitimacy to a piece of research which it may or may not deserve. We will not comment on the ethical implications of such visualizations, but we do note that such visualizations are increasingly common and seem to play a role in successfully passing peer review, receiving funding, or catching the public eye." (Paragraph 18)
 
-I am curious as to whether the current trend towards eschewing long-form content in favour of shorter pieces has helped with this rise in popularity and effectiveness for visualizations to aid in convincing audiences of a certain point of view, given that they display things in more easily recognizable patterns? In this way, it may allow audiences to engage with the accompanying content with a bias towards what they feel they already know from looking at the visualization. The danger is that these arguments can become rather circular, in that the content supports the visualization, which supports the content, and so on. Therefore, as designers of visualizations in support of content, we need to make sure that we are not leaving room for misrepresentation of the data without gaining the fuller context of the text that accompanies and supports it.
+I am curious as to whether the current trend towards eschewing long-form content in favour of shorter pieces has helped with this rise in popularity and effectiveness for visualizations to aid in convincing audiences of a certain point of view, given that they display things in more easily recognizable patterns? In this way, it may allow audiences to engage with the accompanying content with a bias towards what they feel they already know from looking at the visualization. The danger is that these arguments can become rather circular, in that the content supports the visualization, which supports the content, and so on. 
+
+Our task, as designers of visualizations in support of content, is to make sure that we are not leaving room for misrepresentation of the data without gaining the fuller context of the text that accompanies and supports it.
 
 [0]: https://dhcu.ca/portfolio/visualization/ "List of readings from DHCU.ca"
 [1]: http://www.themacroscope.org/?page_id=469 "from "Principles of Information Visualization""
