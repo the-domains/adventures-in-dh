@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, design, patterns, and
   tools.
-dateModified: '2017-11-12T19:32:39.517Z'
-datePublished: '2017-11-12T19:32:40.130Z'
+dateModified: '2017-11-12T19:34:35.251Z'
+datePublished: '2017-11-12T19:34:35.749Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: MediaObject
 
 In a kind of meta way, the [readings on visualization][0] lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on definition, design, patterns, and tools.
 
-### **Definition(s)**
+## Definition(s)
 
 Perhaps one of my favourite short definitions was from Lev Manovich in "What is Visualization" where she writes,
 
@@ -32,11 +32,11 @@ Perhaps one of my favourite short definitions was from Lev Manovich in "What is 
 
 Going beyond the short to a more fulsome definition, there are a few more concepts that pop up however. The notion of the _[macroscope][1]_ is a great way of thinking of the role of visualizations because it engenders notions of seeing the big picture, and the possible connections that may become apparent as a result; connections that may have otherwise gone unseen. I once attended a workshop with [Edward Tufte][2] in Dallas, TX, and he talked about how our desire to communicate patterns through aggregation of data into visual representations has been around for a while as a way of bringing out big strategic concepts, thus allowing for tactical deep dives into specifics, anchored in the whole. This macroscopic view allows us to see patterns and interesting points of exploration.
 
-### Patterns and emergence
+## Patterns and emergence
 
 The beauty of a good visualization lies in its ability to allow one to look for (and see) patterns within them. Whether it's [Mainard's Napoleon Map][3], or [Manovich's Equalogram Project][4], I find this to be the essence of visualization in practice. It's about allowing for the emergence of patterns that allow you to see connections between things that may not intuitively exist, yet once you see them they become obvious. It's a way of making the strange, familiar.
 
-### Design
+## Design
 
 Visualizations from texts can be useful given that they may uncover different aspects of a narrative that may be less obvious to In my work with user experience (UX) design, this type of visualization tells us the "what", which gives us, as researchers, direction to explore the "how" and the "why" of certain patterns, and the connections between them.
 
