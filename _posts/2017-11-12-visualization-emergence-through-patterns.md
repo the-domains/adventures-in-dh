@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T21:07:25.135Z'
-datePublished: '2017-11-12T21:07:25.676Z'
+dateModified: '2017-11-12T21:08:49.684Z'
+datePublished: '2017-11-12T21:08:50.291Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
