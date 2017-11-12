@@ -5,8 +5,8 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T20:12:24.910Z'
-datePublished: '2017-11-12T20:12:25.399Z'
+dateModified: '2017-11-12T20:15:39.783Z'
+datePublished: '2017-11-12T20:15:40.190Z'
 title: Visualization - emergence through patterns
 author: []
 publisher: {}
@@ -34,13 +34,13 @@ Going beyond the short to a more fulsome definition, there are a few more concep
 
 ## Patterns and emergence
 
-The beauty of a good visualization lies in its ability to allow one to look for (and see) patterns within them. Whether it's [Mainard's Napoleon Map][3], or [Manovich's Equalogram Project][4], I find this to be the essence of visualization in practice. It's about allowing for the emergence of patterns that allow you to see connections between things that may not intuitively exist, yet once you see them they become obvious. It's a way of making the strange, familiar.
+The beauty of a good visualization lies in its ability to allow one to look for (and see) patterns within them. Whether it's [Mainard's Napoleon Map][3], or [Manovich's Equalogram Project][4], I find this to be the essence of visualization in practice. It's about allowing for the emergence of patterns that allow you to see connections between things that may not intuitively exist, yet once you see them they become obvious. It's a way of making the strange, familiar through a kind of "[distant reading][5]" that enables pattern finding and aligning to things we have seen before, as starting points to further exploration.
 
-In my work with user experience (UX) design, visualizations such as [chord diagrams][5], [pietree diagrams][6], etc., tell us the _what_ which inform our research into the _how_ and the _why_. To expand on that a bit, the "how" informs in terms of how a user arrived at a certain conclusion about a choice for an interaction, while the "why" informs in terms of why a user chose one things versus another when trying to complete a task. In our analysis we look for correlative patterns, and the connections between interesting data points to look for insights that will ultimately inform further iterations in the design of a product and/or service.
+In my work with user experience (UX) design, visualizations such as [chord diagrams][6], [pietree diagrams][7], etc., tell us the _what_ which inform our research into the _how_ and the _why_. To expand on that a bit, the "how" informs in terms of how a user arrived at a certain conclusion about a choice for an interaction, while the "why" informs in terms of why a user chose one things versus another when trying to complete a task. In our analysis we look for correlative patterns, and the connections between interesting data points to look for insights that will ultimately inform further iterations in the design of a product and/or service.
 
 ## Design and tools
 
-In "[Principles of data visualization][7]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
+In "[Principles of data visualization][8]", the issue is raised about the uses of data visualization in ways that may create a false sense of legitimacy about content that accompanies it. They write:
 
 > "In a public world that values quantification so highly, visualizations may lend an air of legitimacy to a piece of research which it may or may not deserve. We will not comment on the ethical implications of such visualizations, but we do note that such visualizations are increasingly common and seem to play a role in successfully passing peer review, receiving funding, or catching the public eye." (Paragraph 18)
 
@@ -53,6 +53,7 @@ Our task, as designers of visualizations in support of content, is to make sure 
 [2]: https://www.edwardtufte.com/tufte/index "After you're done here, you should check out his site."
 [3]: https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Minard.png
 [4]: http://inequaligram.net/
-[5]: https://datavizcatalogue.com/methods/chord_diagram.html
-[6]: https://support.optimalworkshop.com/hc/en-us/articles/202725470-Interpret-the-Pietree-in-Treejack
-[7]: http://www.themacroscope.org/?page_id=469
+[5]: http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html
+[6]: https://datavizcatalogue.com/methods/chord_diagram.html
+[7]: https://support.optimalworkshop.com/hc/en-us/articles/202725470-Interpret-the-Pietree-in-Treejack
+[8]: http://www.themacroscope.org/?page_id=469
