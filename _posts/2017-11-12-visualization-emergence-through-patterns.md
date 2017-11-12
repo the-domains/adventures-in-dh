@@ -5,13 +5,13 @@ description: >-
   their own, whose corpus (if I can appropriate the term to mean their
   aggregate) revealed a structure based on definition, patterns and emergence,
   and design and tools.
-dateModified: '2017-11-12T21:03:33.120Z'
-datePublished: '2017-11-12T21:03:33.759Z'
+dateModified: '2017-11-12T21:04:34.482Z'
+datePublished: '2017-11-12T21:04:34.907Z'
 title: Visualization - emergence through patterns
-author: []
-publisher:
-  url: 'http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg'
-  name: The Graphic Recorder
+author:
+  - url: 'http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg'
+    name: The Graphic Recorder
+publisher: {}
 via: {}
 sourcePath: _posts/2017-11-12-visualization-emergence-through-patterns.md
 hasPage: true
